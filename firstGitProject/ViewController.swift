@@ -46,7 +46,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Pause the view's session
         sceneView.session.pause()
         
-        print("save eart!")
+        print("save earth!")
     }
 
     // MARK: - ARSCNViewDelegate
